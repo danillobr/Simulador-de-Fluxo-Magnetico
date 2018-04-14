@@ -1,2 +1,2 @@
-# Simulador-de-Fluxo-Magn-tico-
+# Simulador de Fluxo Magnético
 Trabalho de Fisica
