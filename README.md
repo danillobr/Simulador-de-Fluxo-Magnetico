@@ -1,5 +1,4 @@
 # Simulador de Fluxo Magnético
-Trabalho de Fisica
 <br/>
 <h3>Simula o Fluxo de um Campo Magnético atuando sobre uma chapa de metal.</h3>
 <h4>Interação do Usuario: </4>
@@ -14,3 +13,4 @@ Trabalho de Fisica
     Área(m²)
   </li>
 </ul>
+Trabalho de Física
